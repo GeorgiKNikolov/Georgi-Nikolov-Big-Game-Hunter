@@ -1,0 +1,11 @@
+.details-button {
+    margin: 10px;
+    padding: 10px;
+    background-color: #e8510b;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}

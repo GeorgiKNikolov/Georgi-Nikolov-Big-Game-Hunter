@@ -1,0 +1,61 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: url('https://e1.pxfuel.com/desktop-wallpaper/988/435/desktop-wallpaper-nature-trees-autumn-forest-animals-deer-1920x1200-nature-forests-autumn-forests.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.register-form {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+.register-form h2 {
+    margin-bottom: 20px;
+}
+
+.register-form label {
+    display: block;
+    margin: 10px 0 5px;
+    text-align: left;
+}
+
+.register-form input {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.register-form button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #007BFF;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.register-form button:hover {
+    background: #0056b3;
+}
+
+.form-error {
+    color: red;
+}

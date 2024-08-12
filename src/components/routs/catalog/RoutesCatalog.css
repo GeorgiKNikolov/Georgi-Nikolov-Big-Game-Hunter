@@ -1,0 +1,28 @@
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background: url('https://e1.pxfuel.com/desktop-wallpaper/988/435/desktop-wallpaper-nature-trees-autumn-forest-animals-deer-1920x1200-nature-forests-autumn-forests.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.catalog {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-grow: 1 1;
+}
+
+.item {
+    margin: 10px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5%;
+    text-align: center;
+} 
+
+

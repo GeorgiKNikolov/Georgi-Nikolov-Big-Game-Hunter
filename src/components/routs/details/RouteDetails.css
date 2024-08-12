@@ -1,0 +1,75 @@
+/* styles.css */
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background: url('https://e1.pxfuel.com/desktop-wallpaper/988/435/desktop-wallpaper-nature-trees-autumn-forest-animals-deer-1920x1200-nature-forests-autumn-forests.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.form-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+}
+
+.form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-container div img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.form-container div {
+    margin-bottom: 10px;
+}
+
+.form-container span {
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.form-container p {
+    margin: 5px 0;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    resize: vertical;
+}
+
+form input[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: #0056b3;
+}

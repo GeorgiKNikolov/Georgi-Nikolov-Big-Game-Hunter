@@ -1,0 +1,58 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background: url('https://e1.pxfuel.com/desktop-wallpaper/988/435/desktop-wallpaper-nature-trees-autumn-forest-animals-deer-1920x1200-nature-forests-autumn-forests.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+   
+}
+
+.trophy-form {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    text-align: center;
+}
+
+.trophy-form h1 {
+    margin-bottom: 20px;
+}
+
+.trophy-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.trophy-form input, .trophy-form select {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.trophy-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.trophy-form button:hover {
+    background-color: #45a049;
+}
