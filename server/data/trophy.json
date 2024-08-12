@@ -1,0 +1,38 @@
+{
+  "2d5ae478-87c7-45fa-acf9-f04aa4724421": {
+    "imgUrl": "https://woodlandcreekfurniture.com/media/catalog/product/cache/1044726d93dd0fc5b52ac7ed430bb624/f/a/fallow-deer.jpg",
+    "location": "Rodopi Mountain",
+    "medal": "Bronz",
+    "description": "Fallow deer head trophy",
+    "price": "1000",
+    "contact": "pipi@gmail.com",
+    "_id": "2d5ae478-87c7-45fa-acf9-f04aa4724421"
+  },
+  "6012c542-38e1-4660-ba40-1b109c40cb2f": {
+    "imgUrl": "https://www.faviaviaggi.com/uploads/images/products/thumbs/thumb_product_1_1.jpg",
+    "location": "Rila Mountain",
+    "medal": "Gold",
+    "description": "Hunting trophy - wild boar",
+    "price": "3000",
+    "contact": "lulu@abv.bg",
+    "_id": "6012c542-38e1-4660-ba40-1b109c40cb2f"
+  },
+  "d749a819-1e41-4c65-9ce2-7b429c4ebd0d": {
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Deer_trophy.jpg",
+    "location": "Piri Mountain",
+    "medal": "Silver",
+    "description": "Raindeer trophy",
+    "price": "5000",
+    "contact": "kuku@yahoo.com",
+    "_id": "d749a819-1e41-4c65-9ce2-7b429c4ebd0d"
+  },
+  "d749a819-1e41-4c65-9ce2-7b429c4ebd0r" :{
+    "imgUrl": "https://www.westleyrichards.com/explora/wp-content/uploads/2023/03/163A1603-960x1200.jpg",
+    "location": "Sakar Mountain",
+    "medal": "World Record",
+    "description": "Roe deer trophy",
+    "price": "10000",
+    "contact": "pepe@yahoo.com",
+    "_id": "d749a819-1e41-4c65-9ce2-7b429c4ebd0r"
+  }
+}
